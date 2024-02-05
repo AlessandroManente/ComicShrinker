@@ -1,33 +1,26 @@
-﻿unit Main;
+unit Main;
+
+{$mode objfpc}{$H+}
 
 interface
 
 uses
-  System.SysUtils,
-  System.Types,
-  System.UITypes,
-  System.Classes,
-  System.Variants,
-
-  FMX.Types,
-  FMX.Controls,
-  FMX.Forms,
-  FMX.Graphics,
-  FMX.Dialogs;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs;
 
 type
-  TMainForm = class(TForm)
+  TForm1 = class(TForm)
   private
-    { Private declarations }
+
   public
-    { Public declarations }
+
   end;
 
 var
-  MainForm: TMainForm;
+  Form1: TForm1;
 
 implementation
 
-{$R *.fmx}
+{$R *.lfm}
 
 end.
+
