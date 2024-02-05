@@ -57,6 +57,7 @@
 *.tvsconfig
 *.dsk
 *.lps
+*.bak
 
 # Delphi history and backups
 __history/
@@ -69,3 +70,7 @@ __recovery/
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
 dcu/
+classes/backup/
+forms/backup/
+interfaces/backup/
+project/backup/

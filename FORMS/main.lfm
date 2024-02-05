@@ -1,7 +1,7 @@
-object Form1: TForm1
+object MainForm: TMainForm
   Left = 199
-  Height = 371
+  Height = 600
   Top = 250
-  Width = 562
-  Caption = 'Form1'
+  Width = 800
+  Caption = 'Comic Shrinker'
 end
