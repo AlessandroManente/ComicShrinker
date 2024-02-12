@@ -74,3 +74,5 @@ classes/backup/
 forms/backup/
 interfaces/backup/
 project/backup/
+backup
+/project/backup/*.bak

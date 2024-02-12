@@ -1,7 +1,0 @@
-object MainForm: TMainForm
-  Left = 199
-  Height = 600
-  Top = 250
-  Width = 800
-  Caption = 'Comic Shrinker'
-end
